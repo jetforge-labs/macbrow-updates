@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Macbrow</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 03 Nov 2026 19:12:13 +0100</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.0.0</h2>
+<p>Primera versión. Macbrow vive en el notch del MacBook y te da, sin salir de lo que estás haciendo:</p>
+<ul>
+<li>Un estante donde arrastrar y soltar archivos, texto, enlaces e imágenes, y volver a sacarlos en cualquier otra app.</li>
+<li>Lo que suena, con carátula, controles y volumen del sistema.</li>
+<li>Tu calendario de hoy, con el detalle del evento y un botón para unirte a la videollamada.</li>
+<li>Una luz animada que toma el color de la carátula o de la hora del día, y un ecualizador en color en el notch cerrado.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.0.0/Macbrow-1.0.0.dmg" length="4460010" type="application/octet-stream" sparkle:edSignature="T9qMFgsOrU8psZ6LnUq3itFWIJ42MzNTFeYafBFF5lhRG/pr3YSjpDrJoKTeqef6WnPed+UWvsifRvmY9P7QAg=="/>
+        </item>
+    </channel>
+</rss>
