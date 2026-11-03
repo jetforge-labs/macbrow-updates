@@ -3,6 +3,26 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.2.0</title>
+            <pubDate>Tue, 03 Nov 2026 22:04:54 +0100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.2.0</h2>
+<ul>
+<li>A third section in the notch, chosen in Settings &gt; Notch: Clipboard history, Focus timer or Mirror.</li>
+<li>Clipboard history keeps your last 50 copies (text, links, images and files) so you can copy or drag them again. Password managers and concealed items are ignored, and you can pause or clear the history at any time.</li>
+<li>Focus: a timer or Pomodoro with a progress ring, shown in the closed notch while it runs, with a sound and a quick notch pop when time is up.</li>
+<li>Mirror: a quick look at your camera before a call. The camera only runs while the Mirror tab is open.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.2.0/Macbrow-1.2.0.dmg" length="5152676" type="application/octet-stream" sparkle:edSignature="l5bqxlgnx5ViBUvvPY28Oq7nfE97xL/V7Ar1CqNdSNC/j4O2JKbMeQ30DCp0UMjEVeY8GFs8McYNDdXzqBb5Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.2.0/Macbrow3-2.delta" sparkle:deltaFrom="2" length="847062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rU9Co52SHYOhJqw6ONv4VvHz8mAJHJAh+KAhwUmzqyh57jtCy7q3r3XpYpjtUVCYHGDN3P5WJ1yH1ZptVgDVAA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.2.0/Macbrow3-1.delta" sparkle:deltaFrom="1" length="992134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="j557GK1Okk5ecHshYb7eZ9u3JGtaX46umwfAwiHKxwPQmQ++7uEzAaEjqb/6JhNryf7iC2GVrr8FfiBBLrA4Cg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1.0</title>
             <pubDate>Tue, 03 Nov 2026 21:04:41 +0100</pubDate>
             <sparkle:version>2</sparkle:version>
