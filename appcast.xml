@@ -3,6 +3,23 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.1.0</title>
+            <pubDate>Tue, 03 Nov 2026 21:04:41 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.1.0</h2>
+<ul>
+<li>Audio output picker: a new button next to the volume slider lists your outputs (speakers, AirPods, displays, AirPlay) and switches between them.</li>
+<li>Macbrow now speaks English, Spanish, French, German, Portuguese and Italian. Choose the language in Settings, or let it follow your system.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.1.0/Macbrow-1.1.0.dmg" length="4600721" type="application/octet-stream" sparkle:edSignature="SWd93vAtfS5s4/wD+SSUM4W/p9SMkdhX4N7D2CSQlygSW+3b7ER52vabSJKyg95/NP/Dh+QL4YIQVWb9l1cEDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.1.0/Macbrow2-1.delta" sparkle:deltaFrom="1" length="562830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/dUGfjxl5nBa7npXJl5Hi0jR5zeekQ4m/rlr6GyfrgQmk299INfX7ZarEuZVgMUZmqcUalB/tRlvte5OKCIIAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Tue, 03 Nov 2026 19:12:13 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
