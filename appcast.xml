@@ -3,6 +3,26 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.4.0</title>
+            <pubDate>Wed, 04 Nov 2026 10:14:59 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.4.0</h2>
+<ul>
+<li>Panel size: make the open notch smaller. Choose Normal, Compact or Minimal in Settings &gt; Appearance. The change applies at once.</li>
+<li>Every screen: show Macbrow on all your connected displays, only on the main one, or automatically on the one with the notch. Choose in Settings &gt; Opening. Screens without a notch get a pill in the menu bar.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.4.0/Macbrow-1.4.0.dmg" length="5427068" type="application/octet-stream" sparkle:edSignature="Edulav2bVX+hcAYVTGxJz6Q6SUhVunngsmm44HYTiyio5tgefXKRx2MMgoYIJwr4zUCbbN8HlnhU7QDrB0Z3Cw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.4.0/Macbrow5-4.delta" sparkle:deltaFrom="4" length="600986" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pJ8mcHkwFBKYNZm/8bAAXYLeWkpfbyC3+P1Umg/X2u4c3zowQecic3y0uyJlhUUvUoivyqXXx8iTPv0QGC9xAw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.4.0/Macbrow5-3.delta" sparkle:deltaFrom="3" length="816978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H+0srRz/EbJ3TPw+QcYjtCtyTRGeifE1IAzs0CX706ZOizeZ925ASJfJ3t9x2Iq3L1/brLKUOD2FNtSGQEZpCQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.4.0/Macbrow5-2.delta" sparkle:deltaFrom="2" length="1104842" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="OB2NrwvU9OLFC70etAllsHyf2IPjNJmP20hexNMcMTbBRG5n5QENtEfk72GLnc7FeWTfYwU9GOq7PK6ANL79Aw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.4.0/Macbrow5-1.delta" sparkle:deltaFrom="1" length="1238514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8o7OrKlvwwsQZdedFfw5isiHmVkUhjGuPx6hYRfEw5w+MoHbAH3+wD1nM6JB44J9PAHdoF8A1UY3DTg5Lwr0DQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3.0</title>
             <pubDate>Wed, 04 Nov 2026 08:09:19 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
