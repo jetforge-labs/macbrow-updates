@@ -3,6 +3,29 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.7.0</title>
+            <pubDate>Thu, 05 Nov 2026 19:04:24 +0100</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.7.0</h2>
+<ul>
+<li>Weather: a new integration in the drawer with the current temperature and conditions, today's high and low, the next 12 hours and the next 5 days, plus rain in the next hour.</li>
+<li>Use your approximate location or choose a city in Settings &gt; Integrations &gt; Weather. Units follow your region, or pick °C or °F.</li>
+<li>Forecasts come from MET Norway and are cached, so the notch stays light: nothing runs while it is closed.</li>
+<li>Integration messages in the drawer no longer clip their buttons.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.7.0/Macbrow-1.7.0.dmg" length="8700288" type="application/octet-stream" sparkle:edSignature="Q+etuNA9WjOUHnAtgvY7C2j4wDNhbAlrORtifl4tVIN6xcBTfTJKWBCttJ3k8Dck9AcCReJd75MBRqz/ImiPBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.7.0/Macbrow8-7.delta" sparkle:deltaFrom="7" length="1303446" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d5pIc0bEFOVNlHm43q1qpn1TmN94fWxfOnHMElRA3uTUIjaHCcNcrek8Aw6nO9pu0d6qYDgiYvRHE8vNFpJACA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.7.0/Macbrow8-6.delta" sparkle:deltaFrom="6" length="2150346" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IhvspwZx48Ow7POY45tIJje7LBNg8BjlJzdG4fMU+gVaTUA7hl4PrUQAkPc3vp1KiGcpzZKPYiobcM8HRNc7AA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.7.0/Macbrow8-5.delta" sparkle:deltaFrom="5" length="2254894" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Dg+e3yqxn53/sPnXwirC62Aw8oyWTGTCCZyQe9y3c88USgm8j6f9VDcbcg0isTcSwuGJL2OYGulSqCUo5uACBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.7.0/Macbrow8-4.delta" sparkle:deltaFrom="4" length="2296166" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BEFwlPHG3Dj7JsJTt0WLyPgBc9twp5LKtC8b7pf2kqsGK0J7lsDsIZFeJXr6PaW9A7Q46W0xts3SWiBHw8Q+BQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.7.0/Macbrow8-3.delta" sparkle:deltaFrom="3" length="2428110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YehkPG8vIDCLBKGkAmUCS3btLQQD8uMH8TTyanAI68QaSKjmtzEwMuk0WCOglYXhDrorYzyg2XFbxgS45MZIAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Thu, 05 Nov 2026 16:09:59 +0100</pubDate>
             <sparkle:version>7</sparkle:version>
