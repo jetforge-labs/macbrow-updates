@@ -3,6 +3,29 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.6.0</title>
+            <pubDate>Thu, 05 Nov 2026 16:09:59 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.6.0</h2>
+<ul>
+<li>Integrations: connect the apps you use in Settings &gt; Integrations, then pull the handle on the notch's bottom edge to open a drawer with one tab per integration.</li>
+<li>Calendar: every upcoming event for the next 14 days, grouped by day. Reminders: overdue, today's and upcoming reminders, and you can tick them off from the notch. Shortcuts: run your shortcuts with one click.</li>
+<li>Checkmate: overdue, today's and upcoming tasks. Dilo: recording status and your recent meetings and notes. LimitBar: your Claude and Codex usage at a glance.</li>
+<li>The drawer opens from any tab, keeps its height when you switch tabs, and the notch no longer closes if the pointer slips just past the bottom edge.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.6.0/Macbrow-1.6.0.dmg" length="8154684" type="application/octet-stream" sparkle:edSignature="HlVV9S6xw2+JWsPQxgbmw3P2xegznboYQKoalXHOymHyC353wt2uv/rQ4V8weUV7wSB1ddpveaJR8rFMo83xBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.6.0/Macbrow7-6.delta" sparkle:deltaFrom="6" length="1776686" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8zj15JLz0TGvBcVj1kO2RWGEaHxZltrhFXaeGiuzYaIzF5dQwRBfgB8gXy1GaxX0zTzclADfaY4iKb+4T/zHCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.6.0/Macbrow7-5.delta" sparkle:deltaFrom="5" length="1873566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1GrEVNwDKj5T32/QVE0JwTgR/1R0AfBDbUYkIGXesf409TJbAZuRMr852mkC8+hRMWT4ncGTshmaBSv4Fd7ADg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.6.0/Macbrow7-4.delta" sparkle:deltaFrom="4" length="1926406" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xV7LQURaNKm0SXBNzf9G01JcIfeSvPj5vBLdU13jb04DhR/lizgdpeqKBn5Cs1X7ZZDiue8GaMz4I8EmalWKDw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.6.0/Macbrow7-3.delta" sparkle:deltaFrom="3" length="2043114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0sKk561zpGjnxZL42fQKBIDkjxl5IZqvxsdlkDphAv7nUMfoXfYCCqOQOK/TSPAXfPqEg7k2o7tczGzRclKcBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.6.0/Macbrow7-2.delta" sparkle:deltaFrom="2" length="2283074" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yXHjxvW3Q1YSP8UEhKGcdp28143MLMiAVa2NyxkRdjPycCXnRrWp5hTAxbjmKkyOW/qIRI1H4fXQ6/q5aq1qDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.5.0</title>
             <pubDate>Wed, 04 Nov 2026 20:38:37 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
