@@ -3,6 +3,30 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.9.0</title>
+            <pubDate>Fri, 06 Nov 2026 21:06:37 +0000</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.9.0</h2>
+<ul>
+<li>Pet: a small pixel companion that lives in the left side of the closed notch when nothing else is going on. It walks, naps, waves when your pointer comes close and catches files you drop on the Shelf. Turn it on in Settings &gt; Appearance &gt; Pet.</li>
+<li>Ten designs (robot, cat, ghost, slime, duck, mushroom, penguin, dog, octopus and cactus) and six colors.</li>
+<li>It hides under the camera while music plays or a reminder takes the notch, and walks back out when they are done, or after ten minutes with the music paused. Now and then it sneaks across to the right side.</li>
+<li>With more than one display, the pet follows your pointer to the screen you are using.</li>
+<li>Off by default. It sleeps in Low Power Mode, stays still with Reduce Motion and pauses in full screen.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.9.0/Macbrow-1.9.0.dmg" length="10127849" type="application/octet-stream" sparkle:edSignature="v8APM1DCrFJ1fGmERjB3MppqXC9pkFV+YZwxiP9+DmwmmwvwbLJSuAJs/76GwiQnlgCejZq7BVS47Djj93/iAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.9.0/Macbrow10-9.delta" sparkle:deltaFrom="9" length="1421898" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KmaKvKFAKpIWMfIrYWuPHk5n3far+9ifE9pTy+1/mKS9PZNMT5LwMP3O23mbAsOAXaj3iPOu4/RIY5u+kAhLAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.9.0/Macbrow10-8.delta" sparkle:deltaFrom="8" length="2372558" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tlBzmyvAqnvX3NiUKU2Urx75g0zf5QENIaFUborXnTWJyo3mDPtKcSS566L/ra98O6LmHa6niQoVBGpThdUVCA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.9.0/Macbrow10-7.delta" sparkle:deltaFrom="7" length="2659130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="WEo9KmRuxmMcl+WzlPGhi9+fk9yA7SVUpgX0Szk/7zSW9zbrGj5dgwuVuz/uV7ucfq4HgKbZwThdLgzSJVTAAA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.9.0/Macbrow10-6.delta" sparkle:deltaFrom="6" length="3248362" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VKVaz7UfY4qTtm2xZa6e6qaM+tI8c/q4B1V44GMTZx00fuyht4yclG6QL7pF2JBo5xZHDeBbQ1IBeZVe0RW3Cg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.9.0/Macbrow10-5.delta" sparkle:deltaFrom="5" length="3325730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="x+oelsfUhFn82d1s9pEHNd0ZS2QQBoPpzNd6OqXxnboLvsWKiwwTJjuG1M/XSPgpHWU4CZIWcTtLQ+dARhf7AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.8.0</title>
             <pubDate>Fri, 06 Nov 2026 10:02:45 +0000</pubDate>
             <sparkle:version>9</sparkle:version>
