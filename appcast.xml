@@ -3,6 +3,30 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.8.0</title>
+            <pubDate>Fri, 06 Nov 2026 10:02:45 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.8.0</h2>
+<ul>
+<li>Assistant: a new tab in the notch to ask about your day. It runs on Apple Intelligence on your Mac (macOS 26 or later), knows your calendar, reminders, Checkmate tasks, weather and what is playing, and can prepare reminders, complete tasks or run shortcuts. Nothing happens until you confirm it on a card.</li>
+<li>Navigation: choose what goes in the top bar, in the drawer or nowhere, in Settings &gt; Navigation. Home, Shelf, Settings and Quit always stay. Integrations placed in the top bar open their own page.</li>
+<li>Home: pick one or two widgets for Home: Now Playing, Clock, Calendar, Weather, Reminders or Checkmate. A single widget uses the whole width.</li>
+<li>Clipboard history keeps recording wherever you place it, and Focus keeps running unless you hide it.</li>
+<li>The drawer handle is a little bigger and easier to grab.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.8.0/Macbrow-1.8.0.dmg" length="9806432" type="application/octet-stream" sparkle:edSignature="TlsoBWUUfAOtZO42mGnRChD29D9XCwx8ikwcC3sUWHM7pSJ9CP/oIMo5ZAgJqqsgXuMqThkeAFk8Zoy0F8ArDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.8.0/Macbrow9-8.delta" sparkle:deltaFrom="8" length="2116974" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nWZ1ASZ7AB7as+U843h3Q0xvg0rQ8DuzPW/C1kyX0gAaVoI8WNiyhXdlaVwvvkUOkviycOvDY3wr0PxqwppcCg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.8.0/Macbrow9-7.delta" sparkle:deltaFrom="7" length="2397570" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="X5rE1niIVpCzimlghXtK2oJ4CnIQeYDZ2oR+Nxm7dvF8sxcWzo34xpHDdbfEePjBTEuy5hQVcPox/IjVyfaaCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.8.0/Macbrow9-6.delta" sparkle:deltaFrom="6" length="2994890" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jaZy2AZw/C9eeAT+YPwyKPHxrQV6YEeKvlnfb5OkgmsrOLmrH5KOVczf96QdR8nnJI3kQYEPDdFRk8/qLryvCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.8.0/Macbrow9-5.delta" sparkle:deltaFrom="5" length="3062350" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mHpaYvhfsmKKArmKp5nuWYm/p3QYEHamOTkv987C77vNrjrxCG+dZszxjlPQveDBAs7uoE1C9H268hXgEDPHBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.8.0/Macbrow9-4.delta" sparkle:deltaFrom="4" length="3093114" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="DiVgIjvT5uRzjYYZSS+cx7s+RqvGjoWmSCylazvhD4ytQI9M1Pf+KF1yUDqOyg0QJOWx3Uwl3fPVsM4qJnQRDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.0</title>
             <pubDate>Thu, 05 Nov 2026 19:04:24 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
