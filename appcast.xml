@@ -3,6 +3,30 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.11.0</title>
+            <pubDate>Sat, 07 Nov 2026 09:51:11 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.11.0</h2>
+<ul>
+<li>Screenshots on the Shelf: new screenshots land on the Shelf with a countdown and go to the Trash on their own if you never use them, so your Desktop stays clean. Drag, copy, share or pin one to keep it. Off by default: turn it on in Settings &gt; Shelf.</li>
+<li>Expired screenshots go to the Trash, never deleted for good: use "Put Back" to restore one. Files you moved or edited are always kept.</li>
+<li>Files you delete in Finder now leave the Shelf right away.</li>
+<li>The Shelf shows a scroll bar when it holds more than fits. Drag it or click the track to move along the row.</li>
+<li>Integrations: Dilo, Checkmate and LimitBar show what they do and link to jetforgelabs.com when they are not installed.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.11.0/Macbrow-1.11.0.dmg" length="10822743" type="application/octet-stream" sparkle:edSignature="LyeFbpk/xTks0Rpqf7DIX1dE9I1F7A5k0VyY6k65/kfznpRjdNkKPe5DIJpz2kuDglLzkZFuWpy/9nCqDXYYBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.11.0/Macbrow12-11.delta" sparkle:deltaFrom="11" length="1766242" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xjeYarUmmXpoCQgnNeDB1S+y+j7hugHrvqca7oxxYLnXq9jmdZkivHKZ70Y68JZLPX/az1AeTobnsYtf7fvKAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.11.0/Macbrow12-10.delta" sparkle:deltaFrom="10" length="2083522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="r/Lj+wlwtPIJj36v50a6z6S7ydo78PcYUAVciwcHkkKjeo0SfkEvjlTtBmC4aFnZEQStInJsS4Ym55wkKm29AA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.11.0/Macbrow12-9.delta" sparkle:deltaFrom="9" length="2217914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0rxfLAh45NOhsCScggo8Y77FyNYFDXMEeKAu3hmpsLYBIQNyT1zJV8OrpzyjiVrIU7Uzz97OdlPqrJnC4wELCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.11.0/Macbrow12-8.delta" sparkle:deltaFrom="8" length="2980762" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xbAQcnniIkXPePu7qR8m4xdb9FNy4rIFOvaEZRW1UkUa+7japA87mcWHs6s85yYMKPUDFNOjj1spACUkWjpMCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.11.0/Macbrow12-7.delta" sparkle:deltaFrom="7" length="3231774" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="alqFRF5/ZpHHUbyr3BsOZD8dp1mlHiiC8gpoxF6BCZ//nH2/duV228DgjZAy+aSqQaKY8+vXrerQ467GGBkIDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.10.0</title>
             <pubDate>Fri, 06 Nov 2026 22:51:46 +0000</pubDate>
             <sparkle:version>11</sparkle:version>
