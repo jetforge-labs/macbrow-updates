@@ -3,6 +3,30 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.12.0</title>
+            <pubDate>Sat, 07 Nov 2026 10:44:12 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.12.0</h2>
+<ul>
+<li>Macbrow Pro: new installs get 14 days of everything. After that, the Shelf, music, the battery and the Clock stay free, and the rest asks for Pro. One payment of €7.99, no subscription.</li>
+<li>If you were already using Macbrow, nothing changes: you have Pro for life, with no key and no notice.</li>
+<li>Nothing is ever deleted when the trial ends. Your settings and your clipboard history are kept, and Pro features simply stop running until you activate a key.</li>
+<li>A key works on up to 3 Macs. Activate it in Settings &gt; License; deactivating it on one Mac does not give the use back.</li>
+<li>You get a short heads-up 3 days before the trial ends and on its last day, once each. Locked features show a small lock in the notch.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.0/Macbrow-1.12.0.dmg" length="11477299" type="application/octet-stream" sparkle:edSignature="Y008Hhz49RSQEIp/hlxvzyozpdMf3smFGXhMzBNHmN/h/l37S0TVv5WOLQ+UQqBL41SQcHyGrAI8bmvU94BlDw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.0/Macbrow13-12.delta" sparkle:deltaFrom="12" length="2003934" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="JdeRmEC0yv6v4fjK0oaVdoZc0AqX4xGm0q1EvLj9mx3VQd4xgMX54M5ceacyEQ6+ypeczZFtITOPkKI/yzxIAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.0/Macbrow13-11.delta" sparkle:deltaFrom="11" length="2455590" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mUUaWbiaR/7+gknFjcclxZ+V8gQ3LiWsGlLQEW4Q1zidtB0KHMbR2rqrwppqlo67+jBHEZWMJymffqBEotgyAA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.0/Macbrow13-10.delta" sparkle:deltaFrom="10" length="2667914" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="98S9Tev3KQGlCGpOLwKJX6sAeCJJS2wPP3g/dKKh8tyimK1e0UK+eQXsOEpFNpcNHwJFTXIbUT7EBt6+NukFBg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.0/Macbrow13-9.delta" sparkle:deltaFrom="9" length="2772026" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6bYgKkMaD5EcnrGql25nndgruzwBC2BtaW+rr68nG+p6yxyPoEkMYgbU2Iqb9i4//wyekesfjjlyppx4rHhhBQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.0/Macbrow13-8.delta" sparkle:deltaFrom="8" length="3465110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Y203QHyyWJTyHvn1LD/7DYW47lumIddCjmG+gRBlDHKYE/zlj/l6DMg9U0mcIXWxFRsYWnmf01MCxN5x+kfLBA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.11.0</title>
             <pubDate>Sat, 07 Nov 2026 09:51:11 +0000</pubDate>
             <sparkle:version>12</sparkle:version>
