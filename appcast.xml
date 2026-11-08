@@ -3,6 +3,28 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.12.1</title>
+            <pubDate>Sun, 08 Nov 2026 09:53:18 +0000</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.12.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.12.1</h2>
+<ul>
+<li>The notch now hides when an app goes full screen on its display (a video in Safari or Chrome, QuickTime, IINA, any app in its own Space), like the menu bar does, and comes back when you leave full screen.</li>
+<li>It works per display: a full-screen video on one screen does not hide the notch on the other.</li>
+<li>New motion: the notch squeezes into the camera cutout when it hides and springs back out when it returns. It also grows out of the cutout when it opens, folds back when it closes, and does the same when Macbrow starts or quits. With Reduce Motion on it is a short crossfade.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.1/Macbrow-1.12.1.dmg" length="11488447" type="application/octet-stream" sparkle:edSignature="51JxSVfo9XltBnWsAd9GAPejSWlTk9f8GldUKVjCe4L4Laps959QXEf871NeCl05cs3Y7yUl/40usLPFIN3DDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.1/Macbrow14-13.delta" sparkle:deltaFrom="13" length="1100230" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KYs5BNwmYLa6DWvAKfRaY9P8MHQeCadAd/OJP1uDuVxk9PnrwDLkoOTqqGXyhXtGhC/OV1OomqvAej0h0hRUCA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.1/Macbrow14-12.delta" sparkle:deltaFrom="12" length="2074854" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BDTPL9246V8Ark8mXxFJ25C3O0dLCYuepABHnLvCpJKtgKiEOe4CV7c5hqPhTjHaswrcpTFEypV3tLzjlF4mBA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.1/Macbrow14-11.delta" sparkle:deltaFrom="11" length="2487586" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Aq6wS4Y2kfEcuqme/WVyRKhUvOHEJBn54GpoQqgrSPfiN81/8k3s8LgxN1Ma/iaTH6lnp37t6decgyzEwB6KBw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.1/Macbrow14-10.delta" sparkle:deltaFrom="10" length="2688970" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="FE6YGKXPfKqrcWrrkB74bUennrFXNF7D4tKS5lsrK3aM30tD24tKHkzVg28ZsraUrjDJLRHpkEvst0NtOIGHAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.12.1/Macbrow14-9.delta" sparkle:deltaFrom="9" length="2804226" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="nG2UGMUCYmAnwSuVMjZY49CrS17sOyt5X99Z7F9hmi2HEzRiz/hV2dk88+SIuRpLxd5WqeEK7atuBux8rzYqAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.12.0</title>
             <pubDate>Sat, 07 Nov 2026 10:44:12 +0000</pubDate>
             <sparkle:version>13</sparkle:version>
