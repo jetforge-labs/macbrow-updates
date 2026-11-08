@@ -3,6 +3,31 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.14.0</title>
+            <pubDate>Sun, 08 Nov 2026 21:01:25 +0000</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>1.14.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.14.0</h2>
+<ul>
+<li>New: live activities in the closed notch. Plug in the charger and the notch widens for a moment with a bolt and your battery level; it also warns once at 20% and 10%. Free.</li>
+<li>New: switch to AirPods, headphones or a speaker and the notch shows the device for three seconds (Pro).</li>
+<li>New: keep your Mac awake from the cup in the top bar, for 30 minutes, 1 hour, 2 hours or with no limit (Pro). A small cup sits in the closed notch while it is on.</li>
+<li>Your pet has new tricks: it gets ready when you drag a file towards the notch, recharges when you plug in, poses for your screenshots, puts on headphones and sips coffee while your Mac stays awake. With music playing it peeks out to react and hides again.</li>
+<li>The pet now has its own section in Settings, with a live preview and a switch for each reaction.</li>
+<li>Fix: a screenshot thumbnail no longer covers the pet in the right ear.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.0/Macbrow-1.14.0.dmg" length="11850363" type="application/octet-stream" sparkle:edSignature="VwW0IRNvZXwRlHrVv5QsL4yXb8k0FhU/l9NcqS8XdI9bIIrxrGn2jLYWNkqwd/QOy203ko4sVJOMOCi/RywmDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.0/Macbrow17-16.delta" sparkle:deltaFrom="16" length="1811622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="d0XjC9lHCYclLBa2IXha7ffT82J86h+aTm+4sY3a2pMiR7Y/gbWXXMvQr3jyxxKvALJate7JW4ieayIDhucoBw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.0/Macbrow17-15.delta" sparkle:deltaFrom="15" length="1817262" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="M8R80PMRgaQK+5Qqt+cVWEwo2uHZiJu6Dbqf9Z5z/UuL6Su0BsccbuKMuK5b6+mz1TpNrY4GfMGtqOfyo5k6Dw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.0/Macbrow17-14.delta" sparkle:deltaFrom="14" length="1886042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QuejTnsotQ9ZN+Gy6uwy8mdUe+s7NskkNpX4gUEBNwAu+2CiRcpZcimERk7ojag/Na4vCEWFQH6Y7IiiDQ5YCg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.0/Macbrow17-13.delta" sparkle:deltaFrom="13" length="1942146" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jLfZch7n2qZLYQnQXW8LmtMgzK8bPL0vvfQa+R3mOVvNrU3j7whEgdJHaKwYmaTxxNDyMzto6CIe5KWSXlEZAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.0/Macbrow17-12.delta" sparkle:deltaFrom="12" length="2480130" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+4mv2Me0+2P6isXi4RyFo//Ss8UoYuZJkyoYsznbLFrC1Mq9hB8/biolFPaYfbJhp9iz6edJ6rpnfA7jT6rJBQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.13.1</title>
             <pubDate>Sun, 08 Nov 2026 11:27:37 +0000</pubDate>
             <sparkle:version>16</sparkle:version>
