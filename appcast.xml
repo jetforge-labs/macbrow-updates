@@ -3,6 +3,27 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.13.0</title>
+            <pubDate>Sun, 08 Nov 2026 11:14:40 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.13.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.13.0</h2>
+<ul>
+<li>New: system resources in the top bar. CPU use and memory in use (for example 12% and 9.4 / 16 GB) show in the right half of the bar, next to the battery. Hover either one for its name.</li>
+<li>Off by default. Turn it on in Settings, Navigation, with the same Top bar / Hidden choice as the battery. It takes no tab slot and it is free.</li>
+<li>It is measured only while the panel is open, every two seconds, so a closed notch uses no CPU for it.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.0/Macbrow-1.13.0.dmg" length="11483180" type="application/octet-stream" sparkle:edSignature="qKFVcUAQa4MVtuPANPkeHwucKjMLQLdINBMRldeRyDvpIKBo/QGXIdm+23Losc7GhKqBccc2dXUInkCdL1ELAA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.0/Macbrow15-14.delta" sparkle:deltaFrom="14" length="1223606" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Mf1GsvbKKnsebA3J+394T71tURmg99mrFAoMhbkIMmJfNF4LD9OudCFjZfkBKiTEKdTlvCKmafDhcCVGFTHrAA=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.0/Macbrow15-13.delta" sparkle:deltaFrom="13" length="1399566" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fuWW/wNRUr7dKHB171qY/X2vfk3Fg7NvsaUvFU+I31ZhOLnGZgltB2vfIMfBraWEe7wabXVG/qC9aaECIbogCQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.0/Macbrow15-11.delta" sparkle:deltaFrom="11" length="2538822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="b9vwxgkRsxhJ/IsPCBKEFNl/bBE8ATBn+11jTY1vz4uQEglCpVarrA4M5dwpkoOxyIU4ZxvLJfi2bHedz+wvDQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.0/Macbrow15-10.delta" sparkle:deltaFrom="10" length="2752718" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ng3yJjjQ3BSxk1Z54U66MvEGkZBqS8+6aMAc2npSTJLQcQmjV8EvNn2DUyVpmxXim//sGze24iwlD6qBAvvaBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.12.1</title>
             <pubDate>Sun, 08 Nov 2026 09:53:18 +0000</pubDate>
             <sparkle:version>14</sparkle:version>
