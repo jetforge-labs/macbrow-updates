@@ -3,6 +3,26 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.13.1</title>
+            <pubDate>Sun, 08 Nov 2026 11:27:37 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.13.1</h2>
+<ul>
+<li>Buying Pro now opens the pricing section of Macbrow's own website, macbrow.co, instead of the Jetforge Labs catalogue.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.1/Macbrow-1.13.1.dmg" length="11483342" type="application/octet-stream" sparkle:edSignature="5HJOvvtvKXJG8UZXxEbyvbJomyzGLcFK9nNILz9wGOj4VeRWDtyGiwPKQ1Orkw4ddwQSjJBTWbcnQupPB0LZBw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.1/Macbrow16-15.delta" sparkle:deltaFrom="15" length="91238" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wrG9YfRs4oSduAsg70ACCXrbimeACuKKbSYknlkdIt3q9GJGzWpDjxR7oJ2ZqGxYH7L85njA/ue3ETI5FUB7Cw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.1/Macbrow16-14.delta" sparkle:deltaFrom="14" length="1226290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wapKoHJMjwUuIdzrTCVfWr/8jakiox/JsyP95ivWkV9s5iCfzxxWtY2MTnu2tQsTk/HFKP5fxdamOePniicgBw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.1/Macbrow16-13.delta" sparkle:deltaFrom="13" length="1398818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="9J9Ar7mmCMWiixVig9SbEWOSpw5L7hn+vUwPC3Ue17dlAGMk1vAyiAweu8+I/tOPeG4diyIKzDQebmaMKyebAw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.1/Macbrow16-12.delta" sparkle:deltaFrom="12" length="2126486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U1fz48nYCSdlwUCQU1dtLqKe3xFj4Tml/4fmkS6qYDCzPESmDwaeujWMKq7zTgntpyExbkOkCndozqGX3KorAQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.13.1/Macbrow16-11.delta" sparkle:deltaFrom="11" length="2541310" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ooLR77dv8/Lwb8FV9pCAInZJ5ST71D40OVJfI5NmKvCqV6W0L6FukFAGQMIWYQcbuwSo9xMMU1M54jxGCQpwAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.13.0</title>
             <pubDate>Sun, 08 Nov 2026 11:14:40 +0000</pubDate>
             <sparkle:version>15</sparkle:version>
