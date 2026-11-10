@@ -3,6 +3,27 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.14.1</title>
+            <pubDate>Tue, 10 Nov 2026 16:14:58 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.14.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.14.1</h2>
+<ul>
+<li>The assistant now knows the details of your events: who organizes them, who is invited and whether they have replied, the room, the video call link and the notes. Ask "who is coming to the meeting?" and it answers.</li>
+<li>The assistant gets more of your day to work with: more reminders, tasks, meetings and shelf items fit in each answer, and it only trims when its memory is full.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.1/Macbrow-1.14.1.dmg" length="11879203" type="application/octet-stream" sparkle:edSignature="IDVjk/9VpK0ftaa9NfQyImevD8vdz73jlfyKyrar6iQJaXEZpDPL518rYWPU29p/ZvFVNpIVQ6tfClc5/TW8Cg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.1/Macbrow18-17.delta" sparkle:deltaFrom="17" length="1188926" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oHf391DMJJYd8/ZKm1Lw0cp1C7Y+bfVSpPIoIUm+YwFc8w82ui1lwFUXmTqURi2iO1+ETLin25C2dtwbVOpzCQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.1/Macbrow18-16.delta" sparkle:deltaFrom="16" length="1878318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="k0WfTOHSmstyAWxcmyDRQdAQfV5fL41j86+apQrg/qzN3pSvTC3R8PaZkJosOoC28rBv9nQ7Q6Jcob3syK68BQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.1/Macbrow18-15.delta" sparkle:deltaFrom="15" length="1871578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QNUPwuXl45nAu7KUFYX934nWzKLbQ46Y7LQ0ECYnSX0JnQKMouRjhvh+VGZTgJB+lUzxtAwBEow9VL8XzLslBQ=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.1/Macbrow18-14.delta" sparkle:deltaFrom="14" length="1960366" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5Dde9DEc60Mg2NvzKeyhm1Dmso1mbq9hsSf8C3XFbVrg7nMcebTO5VBqZe4+mKbhcKO57WMh/jbaYq1EP06uAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.14.1/Macbrow18-13.delta" sparkle:deltaFrom="13" length="2022442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jGRVaCR0+KKiC2b1Sn7rbkJPjDjkyKBGhboVm8XEyb6eI6F5udCz8b9HbOz7z2BZ7Zkc2KpqoTAUprx44/PcAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.14.0</title>
             <pubDate>Sun, 08 Nov 2026 21:01:25 +0000</pubDate>
             <sparkle:version>17</sparkle:version>
