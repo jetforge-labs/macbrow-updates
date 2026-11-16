@@ -3,6 +3,26 @@
     <channel>
         <title>Macbrow</title>
         <item>
+            <title>1.15.0</title>
+            <pubDate>Mon, 16 Nov 2026 10:44:46 +0000</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>1.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Macbrow 1.15.0</h2>
+<ul>
+<li>New: rename shelf items. Right-click a tile and choose Rename… to give it a name of your own. The file on disk keeps its name, and "Restore Original Name" brings it back. Free.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.15.0/Macbrow-1.15.0.dmg" length="11940933" type="application/octet-stream" sparkle:edSignature="FjX0l5o9ZuMte1qXZcvf/tU0EyEwra6YflPJipcWuK5/rnXzMGJzXJmxDP+TYqD2xDUxD4qV2zSQ5G/+BQtWDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.15.0/Macbrow19-18.delta" sparkle:deltaFrom="18" length="1229034" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ByNYu76Mc4h4op4sjMjl/CzDj7DJ4v+arWjQe6B/NRjYMn+nRNDPec7L5nZvQIAI0/SXffrlauuT0thnUUIPBg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.15.0/Macbrow19-17.delta" sparkle:deltaFrom="17" length="1430418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="wBl3NmD8kYBTvuzi2n63I14v4BAONrgpmkPSv/7OZtyqVVIIvSI91MHxnj/0DqUod5jPTwoWT0L/yEQdCfggAg=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.15.0/Macbrow19-16.delta" sparkle:deltaFrom="16" length="1981334" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="o0ZmAbza60MZym+mo61VXSSYutCzQn2RFSImeNlfci5tlz0uu459QlvbMpt8n/knLuF7jnHV7XgNmOsW8QJsDw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.15.0/Macbrow19-15.delta" sparkle:deltaFrom="15" length="1972418" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hofs7jPGqlcsFtPMtL29r1oTgUHP9qtVznVog1gUXsvpfO/umhGADo4oaoEY5RjmgNRGvNo/pbaN5wW7tjFuCw=="/>
+                <enclosure url="https://github.com/jetforge-labs/macbrow-updates/releases/download/v1.15.0/Macbrow19-14.delta" sparkle:deltaFrom="14" length="2060578" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="H5w5qLEiFqGkI+1Dss5C/0cKTWoDJlBt9lKfqVLK6flVr2mG+5NmL8DsykC2iIOMxVW85Y9j0SBJRfMHMn1NCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.14.1</title>
             <pubDate>Tue, 10 Nov 2026 16:14:58 +0000</pubDate>
             <sparkle:version>18</sparkle:version>
